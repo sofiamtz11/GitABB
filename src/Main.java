@@ -13,6 +13,6 @@ public class Main {
                 System.out.println("|---|  |          |  \\ __/|          |  |---|");
                 System.out.println("|      |          |        |          |      |");
                 System.out.println("|======|          |        |          |======|");
-                System.out.println("|_________________|________|_________________|");
+                System.out.println("|_________________|________|_________________| ");
         }
 }
